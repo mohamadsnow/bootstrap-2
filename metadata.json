@@ -1,0 +1,6 @@
+{
+  "name": "Bootstrap Masterclass",
+  "description": "An interactive bilingual English and Arabic educational presentation on Bootstrap for a 4-student team, featuring pronunciation guides, live code sandboxes, and a 34-term technical glossary.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
